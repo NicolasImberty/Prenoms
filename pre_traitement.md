@@ -1,12 +1,11 @@
 pré-traitement
 ================
 
-source : <https://www.data.gouv.fr/fr/datasets/ficher-des-prenoms-de-1900-a-2017/>
 
 ``` r
 library(data.table)
 
-liste_prenoms <- fread("donnees/nat2017.txt")
+liste_prenoms <- fread("nat2017.txt")
 ```
 
 ``` r
