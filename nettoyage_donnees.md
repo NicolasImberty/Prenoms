@@ -1,9 +1,11 @@
-pré-traitement
+Nettoyage des données
 ================
 
 
 ``` r
 library(data.table)
+
+# données annuelles
 
 liste_prenoms <- fread("nat2017.txt")
 ```
