@@ -5,7 +5,7 @@ Nettoyage des données
 ``` r
 library(data.table)
 
-# données annuelles
+# données nationales
 
 liste_prenoms <- fread("nat2017.txt")
 ```
