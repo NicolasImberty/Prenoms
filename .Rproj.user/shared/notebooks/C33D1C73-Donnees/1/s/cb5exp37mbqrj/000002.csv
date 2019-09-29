@@ -1,4 +1,0 @@
-"0","liste_prenoms <- liste_prenoms[, .(sexe = as.factor(ifelse(sexe == 1, ""Masculin"", ""Feminin"")),"
-"0","                                  prenom = preusuel,"
-"0","                                  annee = as.numeric(annais),"
-"0","                                  nombre)]"
